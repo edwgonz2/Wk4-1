@@ -1,0 +1,20 @@
+h1 {
+    font-family: verdana, "times new roman";
+    color: rgba(150, 0, 0, 0.55);
+    font-weight: 600;
+    font-size: 60px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'chiller', "times new roman";
+    color: rgba(255, 0, 0, 1.0);
+    font-size: 50px;
+}
+
+body {
+    background-image: url("outerspace.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
